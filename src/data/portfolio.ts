@@ -12,7 +12,7 @@ export const profile = {
   greeting: "Hi, I'm Tejal Singh",
   headline: "Aspiring AI/ML Engineer & Robotics Enthusiast",
   intro:
-    "I'm a first-year BTech student at S-VYASA University specializing in Computer Science Engineering (Artificial Intelligence & Machine Learning), upskilling in collaboration with NIAT. Right now I'm building strong fundamentals in Python and Java while exploring how intelligent systems and robotics work.",
+    "I'm a first-year BTech student at S-VYASA University, specializing in Computer Science Engineering (Artificial Intelligence & Machine Learning) and upskilling in collaboration with NIAT. After completing my schooling in 2025 and taking a focused drop year, I began my engineering journey in 2026. Right now I'm building strong fundamentals in Python and Java while exploring how intelligent systems and robotics work.",
   location: "India",
   // Replace with your real links when ready.
   email: "your.email@example.com",
@@ -40,15 +40,21 @@ export const about = {
   timeline: [
     {
       period: "Until 2025",
-      title: "High School",
+      title: "Schooling Completed",
       description:
-        "Built a foundation in mathematics and science, and discovered an interest in computers and technology.",
+        "Completed high school with a strong foundation in mathematics and science, and discovered an interest in computers and technology.",
     },
     {
-      period: "2025",
+      period: "2025–2026",
+      title: "Drop Year",
+      description:
+        "Took a focused gap year to prepare for higher education, reflect on goals, and build the mindset needed for engineering.",
+    },
+    {
+      period: "2026",
       title: "Started BTech at S-VYASA University",
       description:
-        "Joined Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning.",
+        "Joined Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning, in collaboration with NIAT.",
     },
     {
       period: "Now",
@@ -64,7 +70,7 @@ export const education = [
     degree: "BTech — Computer Science Engineering",
     specialization: "Artificial Intelligence & Machine Learning",
     institution: "S-VYASA University",
-    period: "First Year · Ongoing",
+    period: "Started 2026 · First Year · Ongoing",
     points: [
       "Core CSE fundamentals with an AI/ML specialization track",
       "Focus areas: programming, mathematics for ML, problem solving",
@@ -74,7 +80,7 @@ export const education = [
     degree: "Upskilling Program",
     specialization: "Industry-aligned technical training",
     institution: "In collaboration with NIAT",
-    period: "Ongoing",
+    period: "Started 2026 · Ongoing",
     points: [
       "Practical skill-building alongside the university curriculum",
       "Hands-on practice with programming and modern development tools",
