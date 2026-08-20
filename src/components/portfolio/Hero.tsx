@@ -11,7 +11,7 @@ export function Hero() {
         aria-hidden="true"
         width={1920}
         height={1080}
-        className="pointer-events-none absolute inset-0 -z-20 h-full w-full object-cover opacity-25 dark:opacity-45"
+        className="pointer-events-none absolute inset-0 -z-20 h-full w-full object-cover opacity-8 dark:opacity-45"
       />
       <div className="grid-bg pointer-events-none absolute inset-0 -z-10 opacity-60 [mask-image:radial-gradient(70%_60%_at_50%_20%,black,transparent)]" />
       <div className="animate-float pointer-events-none absolute -top-24 right-[-10%] -z-10 h-[420px] w-[420px] rounded-full bg-primary/20 blur-3xl" />
