@@ -39,18 +39,6 @@ export const about = {
   ],
   timeline: [
     {
-      period: "Until 2025",
-      title: "Schooling Completed",
-      description:
-        "Completed high school with a strong foundation in mathematics and science, and discovered an interest in computers and technology.",
-    },
-    {
-      period: "2025–2026",
-      title: "Drop Year",
-      description:
-        "Took a focused gap year to prepare for higher education, reflect on goals, and build the mindset needed for engineering.",
-    },
-    {
       period: "2026",
       title: "Started BTech at S-VYASA University",
       description:
