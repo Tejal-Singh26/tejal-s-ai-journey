@@ -34,7 +34,6 @@ function Index() {
       <Navbar />
       <main>
         <Hero />
-        <About />
         <Education />
         <Skills />
         <Projects />
